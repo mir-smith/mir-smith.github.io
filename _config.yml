@@ -1,1 +1,15 @@
-theme: jekyll-theme-modernist
+title: MIR-SMITH LTD
+email: contact@example.com
+description: >-
+  Ruby Python Rails Flask Django Lektor Jekyll
+  Docker PostgreSQL MongoDB Lua JavaScript
+baseurl: ""
+url: ""
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+
+exclude:
+   - Gemfile
