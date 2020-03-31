@@ -4,24 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This page describes the company and how technology behind the website. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# The company
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+MIR-SMITH LTD is a company providing services in software development
+and agile processes. It has one full-time person and draws on the
+expertise of others in areas such as project management, graphic design,
+etc.
 
+# The website
 
-[jekyll-organization]: https://github.com/jekyll
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+The website is developed using [Jekyll](https://jekyllrb.com) and the
+[architect](https://github.com/jekyll/architect) theme, and published
+at [Github Pages](https://pages.github.com/). The use of Lektor based on
+Python was also considered but finally rejected.

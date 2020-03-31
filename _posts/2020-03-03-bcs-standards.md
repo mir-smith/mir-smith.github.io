@@ -1,4 +1,10 @@
-# BCS digital IT apprenticeship standards
+---
+layout: post
+title:  "BCS digital IT apprenticeship standards"
+date:   2020-03-03
+---
+
+The BCS digital IT apprenticeship standards ...
 
 # Analyst
 ## Data Analyst (level 4)
