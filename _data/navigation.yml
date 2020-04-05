@@ -1,0 +1,10 @@
+menu_title: Main menu
+menu:
+  - title: Blog
+    url: /blog
+  - title: Pages
+    url: /pages
+  - title: Profile
+    url: /pages/profile
+  - title: About
+    url: /about

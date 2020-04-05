@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jekyll Architect Theme"
+title:  "Jekyll"
 date:   2020-03-01
 ---
 

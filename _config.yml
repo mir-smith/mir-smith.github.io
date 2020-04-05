@@ -1,15 +1,41 @@
 title: MIR-SMITH LTD
+author: The Management
 email: contact@example.com
 description: >-
   Ruby Python Rails Flask Django Lektor Jekyll
   Docker PostgreSQL MongoDB Lua JavaScript
 baseurl: ""
 url: ""
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username: mir-smith
+rss: News Feed
 
-# Build settings
 markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+github: [metadata] 
 
 exclude:
    - Gemfile
+   - Gemfile.lock
+   - README.md
+
+collections:
+  pages:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
