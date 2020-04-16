@@ -6,4 +6,5 @@ To Do:
   - add basic styling
 
 Status:
+  - 2020-04-16 made some changes.
   - 2020-04-05 skeleton published after change to minima.
