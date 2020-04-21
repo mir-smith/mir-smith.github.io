@@ -14,7 +14,6 @@ etc.
 
 # The website
 
-The website is developed using [Jekyll](https://jekyllrb.com) and the
-[architect](https://github.com/jekyll/architect) theme, and published
-at [Github Pages](https://pages.github.com/). The use of Lektor based on
-Python was also considered but finally rejected.
+The site is implemented in [Jekyll](https://jekyllrb.com) using the
+[minima](https://github.com/jekyll/minima) theme, and published on
+[Github Pages](https://pages.github.com/).
