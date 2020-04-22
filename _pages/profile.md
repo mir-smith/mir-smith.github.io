@@ -2,7 +2,8 @@
 title:  Profile
 ---
 
-Further details will be added in future.
+Further details will be added in future. or perhaps ill just add some
+anecdotes. at bae i had to reuse a ...
 
 # Employment History (Summary)
 <table>

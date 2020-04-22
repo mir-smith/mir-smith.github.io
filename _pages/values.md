@@ -2,7 +2,15 @@
 title:  Values
 ---
 
-The following is dummy text (think lorem ipsum).
+The following is dummy text (think lorem ipsum). It started out as a
+list of my values and became a list of pet peeves and then i remembered
+a major peeve which is the use of rarely encountered si prefixes for
+big data sets. recently ive been annoyed and amused by the use of six 
+significant digits for the number of people tested for covid nineteen
+in the uk. sorry for the odd orthography but im trying to practice 
+touch typing and only have the lower case letters, comma, full stop and
+carriage return at the moment. oh and semi colon and slash. and of course
+backspace due the number of errors i make.
 
 I think that on balance social media is harmful. Logging into Facebook
 should require the removal of 10% of the body's blood for authentication
@@ -15,6 +23,9 @@ I prefer cats to dogs.
 Fake news is a poor label. News is a poor label.
 
 The BBC provides little of value.
+
+the following came from old junk. it needs to be reworked. or perhaps
+just deleted.
 
 Units
 =====
