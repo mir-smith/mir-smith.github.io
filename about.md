@@ -8,9 +8,7 @@ This page describes the company and how technology behind the website.
 # The company
 
 MIR-SMITH LTD is a company providing services in software development
-and agile processes. It has one full-time person and draws on the
-expertise of others in areas such as project management, graphic design,
-etc.
+and agile processes.
 
 # The website
 

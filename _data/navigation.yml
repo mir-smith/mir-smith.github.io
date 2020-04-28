@@ -4,7 +4,5 @@ menu:
     url: /blog
   - title: Pages
     url: /pages
-  - title: Profile
-    url: /pages/profile
   - title: About
     url: /about
