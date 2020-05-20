@@ -15,3 +15,7 @@ and agile processes.
 The site is implemented in [Jekyll](https://jekyllrb.com) using the
 [minima](https://github.com/jekyll/minima) theme, and published on
 [Github Pages](https://pages.github.com/).
+
+# The comic strip
+
+![strip cartoon](assets/food.jpg)
