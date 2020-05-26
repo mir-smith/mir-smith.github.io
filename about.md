@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-This page describes the company and how technology behind the website. 
+This page describes the company and how technology behind the website.
 
 # The company
 
