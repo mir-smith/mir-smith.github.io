@@ -7,6 +7,7 @@ title: Pages
   {%- for my_page in site.pages -%}
     <li>
       <a href="{{ my_page.url }}" title="{{ my_page.title }}">{{ my_page.title }}</a>
+      <span><i>(categories: {{ my_page.categories | array_to_sentence_string }}; tags: {{ my_page.tags | array_to_sentence_string }})</i></span>
       {{ my_page.excerpt }}
     </li>
   {%- endfor -%}

@@ -1,6 +1,8 @@
 ---
 title:  "Welcome to the new website"
 date:   2020-04-28
+category: published
+tags: jekyll github
 ---
 
 This site is implemented in [Jekyll](https://jekyllrb.com) using the

@@ -19,3 +19,11 @@ The site is implemented in [Jekyll](https://jekyllrb.com) using the
 # The comic strip
 
 ![strip cartoon](assets/food.jpg)
+
+# Categories
+
+{{ site.categories }}
+
+# Tags
+
+{{ site.tags }}

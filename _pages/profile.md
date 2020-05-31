@@ -1,5 +1,7 @@
 ---
 title:  Profile
+category: profile
+tags: radar simulation
 ---
 
 Educational background in Physics, Computer Science and Management.

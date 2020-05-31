@@ -1,5 +1,7 @@
 ---
 title:  SI prefixes
+category: general
+tags: units
 ---
 
 Many SI prefixes
