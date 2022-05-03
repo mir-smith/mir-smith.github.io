@@ -1,2 +1,3 @@
 # About
 
+![](images/competencies.png)
