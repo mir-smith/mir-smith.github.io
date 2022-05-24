@@ -1,4 +1,4 @@
-# mir-smith unlimited
+# Home Page
 
 - [About](about.html)
 - [Flotsam and Jetsam](flotsam-and-jetsam)
